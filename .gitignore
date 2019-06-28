@@ -1,0 +1,23 @@
+
+# dependencies
+/node_modules
+
+# production
+/vscode
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+package-lock.json
+*bak
+jsconfig.json
+.eslintrc.js
+less_src/temp
+.vscode/settings.json
+.vscode/launch.json
+

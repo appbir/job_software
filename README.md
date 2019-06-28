@@ -1,2 +1,2 @@
-# job_software
-工作中常见软件
+# appbir-format-reaact
+react基础工程模版脚手架
